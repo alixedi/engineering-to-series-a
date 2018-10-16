@@ -1,4 +1,4 @@
-# engineering-to-series-a
+# Engineering to Series-A
 
 I have worked at tech startups for 15 years, most of these were Software as a Service (SaaS) ventures.
 
